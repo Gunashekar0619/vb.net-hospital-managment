@@ -1,0 +1,15 @@
+c:\users\jeevan\documents\visual studio 2013\Projects\hospitalmanagment\hospitalmanagment\bin\Debug\hospitalmanagment.exe.config
+c:\users\jeevan\documents\visual studio 2013\Projects\hospitalmanagment\hospitalmanagment\bin\Debug\hospitalmanagment.exe
+c:\users\jeevan\documents\visual studio 2013\Projects\hospitalmanagment\hospitalmanagment\bin\Debug\hospitalmanagment.pdb
+c:\users\jeevan\documents\visual studio 2013\Projects\hospitalmanagment\hospitalmanagment\bin\Debug\hospitalmanagment.xml
+c:\users\jeevan\documents\visual studio 2013\Projects\hospitalmanagment\hospitalmanagment\obj\Debug\hospitalmanagment.Resources.resources
+c:\users\jeevan\documents\visual studio 2013\Projects\hospitalmanagment\hospitalmanagment\obj\Debug\hospitalmanagment.vbproj.GenerateResource.Cache
+c:\users\jeevan\documents\visual studio 2013\Projects\hospitalmanagment\hospitalmanagment\obj\Debug\hospitalmanagment.exe
+c:\users\jeevan\documents\visual studio 2013\Projects\hospitalmanagment\hospitalmanagment\obj\Debug\hospitalmanagment.xml
+c:\users\jeevan\documents\visual studio 2013\Projects\hospitalmanagment\hospitalmanagment\obj\Debug\hospitalmanagment.pdb
+C:\Users\Jeevan\documents\visual studio 2013\Projects\hospitalmanagment\hospitalmanagment\obj\Debug\hospitalmanagment.loginform.resources
+C:\Users\Jeevan\documents\visual studio 2013\Projects\hospitalmanagment\hospitalmanagment\obj\Debug\hospitalmanagment.dectorform.resources
+C:\Users\Jeevan\documents\visual studio 2013\Projects\hospitalmanagment\hospitalmanagment\obj\Debug\hospitalmanagment.admin.resources
+C:\Users\Jeevan\documents\visual studio 2013\Projects\hospitalmanagment\hospitalmanagment\obj\Debug\hospitalmanagment.reseptionistform.resources
+C:\Users\Jeevan\documents\visual studio 2013\Projects\hospitalmanagment\hospitalmanagment\obj\Debug\hospitalmanagment.wardmaneerform.resources
+C:\Users\Jeevan\documents\visual studio 2013\Projects\hospitalmanagment\hospitalmanagment\obj\Debug\hospitalmanagment.vbprojResolveAssemblyReference.cache
